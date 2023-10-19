@@ -28,19 +28,19 @@
 1. Clone this repository to your local machine.
 
     ```bash
-    git clone https://github.com/yourusername/password-splitter.git
+    git clone https://github.com/elabdi/Browser-Passwords-Splitter.git
     ```
 
 2. Navigate to the project directory.
 
     ```bash
-    cd password-splitter
+    cd Browser-Passwords-Splitter
     ```
 
 3. Run the script.
 
     ```bash
-    python password_splitter.py
+    python Browser_password_splitter(GRAPHIC).py
     ```
 
 4. Follow the prompts and provide the necessary information:
